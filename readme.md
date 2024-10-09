@@ -1,0 +1,1 @@
+In this study, you will find the docker steps I installed on windows server 2022. Docker is a great container environment and provides us with very fast working environments in our work. Docker is great.
